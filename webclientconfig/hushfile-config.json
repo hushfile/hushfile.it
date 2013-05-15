@@ -1,0 +1,15 @@
+{
+    "footer": {
+        "showfooter": true,
+        "footer": "default",
+        "operatoremail": "operator@hushfile.it"
+    },
+    "menuitems": [
+        {
+            "FAQ": "faq.html"
+        },
+        {
+            "About": "about.html"
+        }
+    ]
+}
